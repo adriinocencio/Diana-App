@@ -24,7 +24,7 @@ Diana is an app for reporting violence against women. Our app is disguised as a 
 
 ## Link to pitch
 
-[Diana app picth on YouTube](www.youtube.com/watch?v=appRtATcnbw).
+[Diana app pitch on YouTube](www.youtube.com/watch?v=appRtATcnbw).
 
 ***
 

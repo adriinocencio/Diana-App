@@ -38,6 +38,14 @@ Diana is an app for reporting violence against women. Our app is disguised as a 
 
 &nbsp;
 
+## Link to socials
+
+[Diana app socials](https://flow.page/dianaapp).
+
+***
+
+&nbsp;
+
 ## Detailed project description
 
 The project aims to protect women from domestic violence.
